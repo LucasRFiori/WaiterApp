@@ -1,15 +1,16 @@
+
 # JS STACK - WAITER APP
 
-## App desenvolvido junto com o Mateus Silva (Curso JS STACK).
+## App developed together with Mateus Silva (JS STACK Course).
 
-### Tecnologias
+### Technologies
 
 - React (Styled components, Axios, React Toastify)
-- React Native (Styled-componets, expo)
+- React Native (Styled-components, Expo)
 - MongoDB
-- NODE JS (express, socketio)
+- NODE JS (Express, Socket.io)
 
-#### OBS: Realizei alguns ajustes pessoais no código 🙃
+#### NOTE: I made some personal adjustments to the code 🙃
 ---
 <div style="display: flex;">
 
